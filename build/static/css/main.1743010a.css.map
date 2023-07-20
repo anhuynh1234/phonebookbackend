@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.1743010a.css","mappings":"AACA,SACI,sCACJ,CACA,YACI,aACJ","sources":["index.css"],"sourcesContent":["\n.mainDiv {\n    font-family: Arial, Helvetica, sans-serif;\n}\n.mainHeader{\n    color:rgb(50, 181, 137)\n}"],"names":[],"sourceRoot":""}
